@@ -25,13 +25,13 @@ Results-driven and highly skilled Web Developer with a solid 4-year track record
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
         </picture>
       </a>
-      <a href="https://discord.com/users/alexandersage" target="_blank" rel="noreferrer">
+<!--       <a href="https://discord.com/users/alexandersage" target="_blank" rel="noreferrer">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="undefined" />
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
         </picture>
-      </a>
+      </a> -->
       <a href="https://www.github.com/AlexanderBess" target="_blank" rel="noreferrer">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
